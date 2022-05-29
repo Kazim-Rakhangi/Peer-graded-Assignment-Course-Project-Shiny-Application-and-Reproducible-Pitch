@@ -3,4 +3,4 @@ This repository has the ui.R and server.R files for the first part of the Develo
 
 The app developed for the first part of the assignment is avalilable at: https://kazim.shinyapps.io/Diamond_Price/
 
-The presentation is available at: 
+The presentation is available at: https://rpubs.com/kazim_rakhangi/diamond_price
